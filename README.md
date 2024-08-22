@@ -22,7 +22,7 @@ Atividade para completar o desafio do Bootcamp da DIO.
 Como algumas pessoas ainda estão aprendendo a usar o GitHub, elaborei um passo a passo de como realizar um Fork de um projeto utilizando o Copilot.
 
 ## 🤖 Tecnologias Utilizadas
-Copilot
+- Copilot
 
 ## 🧐 Processo de Criação
 Utilizei o "Copilot" para criar o passo a passo do Fork para estruturar o conteúdo. 
