@@ -16,32 +16,20 @@ Atividade para completar o desafio do Bootcamp da DIO.
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando um passo a passo de como realizar um Fork de um projeto do GitHub.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como algumas pessoas ainda estão aprendendo a usar o GitHub, elaborei um passo a passo de como realizar um Fork de um projeto utilizando o Copilot.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Copilot" para criar o passo a passo do Fork para estruturar o conteúdo. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar esse passo a passo foi extremamente rápido e eficiente, o que demonstra o quanto de tempo poupei ao utilizar o Copilot para me auxiliar na criação do passo a passo.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
