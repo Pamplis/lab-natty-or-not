@@ -1,0 +1,24 @@
+Aqui está um passo a passo para fazer um fork de um repositório no GitHub:
+
+Passo 1: Acesse o GitHub
+Entre na sua conta GitHub: Se ainda não estiver logado, acesse GitHub.com e faça login com seu nome de usuário e senha.
+
+Passo 2: Encontre o Repositório
+Navegue até o repositório que deseja fazer o fork: Use a barra de busca no topo da página ou acesse diretamente o link do repositório.
+
+Passo 3: Fazer o Fork
+Clique no botão "Fork": Na parte superior direita da página do repositório, você verá um botão "Fork". Clique nele.
+O GitHub começará a criar uma cópia do repositório em sua conta.
+
+Passo 4: Verifique o Repositório Forkado
+Acesse o repositório forkado: Após o processo, você será redirecionado para o novo repositório forkado. Esse repositório agora pertence a você e tem o mesmo conteúdo do repositório original.
+
+Passo 5: Clone o Repositório (Opcional)
+Clone o repositório para o seu computador (opcional): Se deseja trabalhar localmente no repositório, clique no botão "Code" e copie o link HTTPS, SSH, ou GitHub CLI.
+# Abra o terminal no seu computador e use o comando git clone seguido do link copiado:
+# git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+Passo 6: Fazer Mudanças e Contribuir (Opcional)
+Faça mudanças e contribua: Agora você pode modificar o código no repositório forkado. Se quiser contribuir de volta ao repositório original, pode abrir um "pull request" para solicitar que suas mudanças sejam incorporadas.
+
+Pronto! Você agora tem uma cópia do repositório original em sua conta, pronta para ser editada e manipulada como desejar.
