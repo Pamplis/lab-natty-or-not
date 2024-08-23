@@ -28,7 +28,8 @@ Como algumas pessoas ainda estão aprendendo a usar o GitHub, elaborei um passo 
 Utilizei o "Copilot" para criar o passo a passo do Fork para estruturar o conteúdo. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui está o resultado do projeto.
+[Passo a passo criado pelo Copilot](https://github.com/Pamplis/lab-natty-or-not/blob/main/Fork%20no%20GitHub.txt)
 
 ## 💭 Reflexão (Opcional)
 Criar esse passo a passo foi extremamente rápido e eficiente, o que demonstra o quanto de tempo poupei ao utilizar o Copilot para me auxiliar na criação do passo a passo.
